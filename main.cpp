@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-// Simple Calculator v1
+// Simple Calculator v2 (significantly improved)
 int main()
 {
     int a, b;
