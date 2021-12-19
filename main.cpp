@@ -1,7 +1,8 @@
 #include <fstream>
 #include <iostream>
 using namespace std;
- 
+
+// Calculator
 int main()
 {
     int a, b;
